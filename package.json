@@ -1,7 +1,7 @@
 {
   "name": "react-tab-ui",
   "private": false,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "type": "module",
   "license": "MIT",
   "main": "dist/react-tab.umd.js",
@@ -15,6 +15,11 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atif0075/react-tab"
+  },
+  "homepage": "https://github.com/atif0075/react-tab",
   "publishConfig": {
     "access": "public"
   },
